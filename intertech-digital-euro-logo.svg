@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 1000 1000" role="img" aria-label="Intertech Digital Euro project emblem">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2b0"/><stop offset=".28" stop-color="#d9a937"/><stop offset=".53" stop-color="#ffe18a"/><stop offset=".78" stop-color="#be8520"/><stop offset="1" stop-color="#f5d775"/>
+    </linearGradient>
+    <radialGradient id="blue" cx="48%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#174ba1"/><stop offset=".66" stop-color="#0a2c69"/><stop offset="1" stop-color="#041330"/>
+    </radialGradient>
+    <pattern id="network" width="140" height="244" patternUnits="userSpaceOnUse">
+      <path d="M70 0 140 41v81l-70 41L0 122V41z M70 163v81 M0 122l-70 41 M140 122l70 41" fill="none" stroke="#e6bb58" stroke-opacity=".38" stroke-width="2.5"/>
+      <g fill="#f5cf6a"><circle cx="70" cy="0" r="4"/><circle cx="0" cy="41" r="4"/><circle cx="140" cy="41" r="4"/><circle cx="0" cy="122" r="4"/><circle cx="140" cy="122" r="4"/><circle cx="70" cy="163" r="4"/></g>
+    </pattern>
+  </defs>
+  <path d="M500 62 858 269v414L500 890 142 683V269z" fill="#76500d" stroke="#372607" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M500 78 842 276v400L500 874 158 676V276z" fill="url(#gold)" stroke="#ffe8a0" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M500 121 805 298v356L500 831 195 654V298z" fill="url(#blue)" stroke="#79500a" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M500 121 805 298v356L500 831 195 654V298z" fill="url(#network)"/>
+  <g fill="#4b2c03" transform="translate(5 8)">
+    <path d="M315 306h155v13c-30 4-45 19-45 43v102h14c22-70 84-119 161-119 45 0 83 13 117 39l-19 43c-30-25-61-37-98-37-55 0-99 28-119 74h198l-14 39H478c12 57 58 92 120 92 39 0 74-14 101-38l18 44c-33 27-73 41-119 41-80 0-143-51-160-122h-13v102c0 24 15 40 45 44v13H315v-13c31-4 44-20 44-44V362c0-24-13-39-44-43z"/>
+  </g>
+  <path d="M315 306h155v13c-30 4-45 19-45 43v102h14c22-70 84-119 161-119 45 0 83 13 117 39l-19 43c-30-25-61-37-98-37-55 0-99 28-119 74h198l-14 39H478c12 57 58 92 120 92 39 0 74-14 101-38l18 44c-33 27-73 41-119 41-80 0-143-51-160-122h-13v102c0 24 15 40 45 44v13H315v-13c31-4 44-20 44-44V362c0-24-13-39-44-43z" fill="url(#gold)" stroke="#ffdf80" stroke-width="3" stroke-linejoin="round"/>
+</svg>
